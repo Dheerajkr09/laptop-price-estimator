@@ -83,5 +83,5 @@ streamlit run app.py
 
 ## App Preview
 ---
-      <img width="1853" height="852" alt="Screenshot 2026-06-26 153650" src="https://github.com/user-attachments/assets/07766c7c-949b-4f97-b88d-a2d031d3d7f2" />
+       <img width="1853" height="852" alt="Screenshot" src="https://github.com/user-attachments/assets/07766c7c-949b-4f97-b88d-a2d031d3d7f2" />" />
 
